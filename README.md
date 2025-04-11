@@ -1,7 +1,10 @@
 # 🔢 Validador y Sumador de Números en Python
 
 Este repositorio contiene un script en Python que realiza la **suma de dos números**, validando previamente que los operandos sean de tipo `int` o `float`.
-
+## Desarrolador
+| Apellidos y nombre       |
+|--------------------------|
+ | Cruz Salaza, Jorge Luis  |
 ## 🚀 Funcionalidades
 
 - ✅ Suma dos operandos numéricos.
